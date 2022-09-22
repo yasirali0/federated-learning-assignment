@@ -1,0 +1,6 @@
+centralized_vs_federated/data/
+centralized_vs_federated/__pycache__/
+femnist/data/
+femnist/__pycache__
+MNIST/data/
+MNIST/__pycache__
