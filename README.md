@@ -1,5 +1,5 @@
 # Assignment on Federated Learning
 
-[Flower framework](https://flower.dev/) is used for simulating federated learning environment. <br/>
+<a href="https://flower.dev/" target="_blank">Flower framework</a> is used for simulating federated learning environment. <br/>
 
 MNIST, FEMNIST, and CIFAR10 datasets are used for training. <br/>
